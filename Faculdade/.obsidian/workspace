@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "ba7ad30448b82ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d174b7db08a530",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Engenharia de Software/Engenharia de Software.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db86c9d111f25940",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43f1ea7bf9c5499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c2c03c9df3faab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e986795e9b1a3111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ac5cee4e53d6da4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b8032071e8d666bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d507eff7ae064d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6542106f41a5473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engenharia de Software/Engenharia de Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa2a79e3bbe6af4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engenharia de Software/Engenharia de Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc88d1c14d566ddb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "684770117538c4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engenharia de Software/Engenharia de Software.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00d174b7db08a530",
+  "lastOpenFiles": [
+    "Computação Distribuida/Computação Distribuida.md",
+    "Metodologia de Pesquisa em Computação/Metodologia de Pesquisa de Computação.md"
+  ]
+}
